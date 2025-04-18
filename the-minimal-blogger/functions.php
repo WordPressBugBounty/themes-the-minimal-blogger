@@ -1,10 +1,11 @@
 <?php
 
-
+add_action("init", function () {
 register_block_pattern_category(
 	'the-minimal-blogger',
 	array( 'label' => __( 'The Minimal Blogger', 'the-minimal-blogger' ) )
 );
+});
 
 add_action('init', function() {
 	remove_theme_support('core-block-patterns');
