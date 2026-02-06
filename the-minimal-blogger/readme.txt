@@ -1,10 +1,10 @@
 # The Minimal Blogger
 
 Contributors: superbaddons  
-Tested up to: 6.4
+Tested up to: 6.9
 Requires PHP: 4.0
-Stable tag: 1.1
-Version: 1.1
+Stable tag: 1.5
+Version: 1.5
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 Tags: blog, entertainment, news, one-column, two-columns, block-patterns, block-styles, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-image-header, featured-images, footer-widgets, full-site-editing, full-width-template, sticky-post, style-variations, template-editing, threaded-comments, translation-ready, wide-blocks
